@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "internalProjectName": "my_own_diary",
+  "displayName": "나만칸",
+  "isProvisional": true,
+  "tagline": "좋아하는 것들로 채우는 나만의 다이어리",
+  "defaultLocale": "ko_KR",
+  "developmentApplicationId": "com.example.myowndiary",
+  "productionApplicationId": "com.toejji.diary",
+  "productionBundleIdentifier": null,
+  "privacyPolicyUrl": null,
+  "termsUrl": null,
+  "accountDeletionUrl": null,
+  "supportEmail": "seraphiclady@naver.com",
+  "developerName": "toejji",
+  "operatorName": "워너비프리",
+  "namingRule": "표시 이름 변경과 내부 ID·암호화 키·출시 후 스토어 식별자를 분리한다. com.example ID는 개발 전용이다."
+}
